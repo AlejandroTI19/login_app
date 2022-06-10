@@ -166,6 +166,7 @@
         android:text="Register now"
 
 
+
         android:textAllCaps="false"
         android:textColor="@color/purple_500"
         android:textColorLink="@color/purple_500"

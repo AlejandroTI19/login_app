@@ -14,6 +14,7 @@ public class Register extends AppCompatActivity {
         TextView textView;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_register);
+
         textView = findViewById(R.id.textView4);
         textView.setOnClickListener(new View.OnClickListener() {
             @Override
